@@ -1,5 +1,5 @@
 # judge-browser 浏览器UA识别
-# 使用方法
+### 使用方法
 ```
 <script src="judge-browser.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
