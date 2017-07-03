@@ -11,9 +11,9 @@
 	<body>
 		<script type="text/javascript">
 			var client = new Client();
-      console.log("Engine ：" + client.engine.name + " " + client.engine.version);
-		  console.log("Browser：" + client.browser.name + " " + client.browser.version);
-		  console.log("System ：" + client.system.name + " " + client.system.version);
+      			console.log("Engine ：" + client.engine.name + " " + client.engine.version);
+		  	console.log("Browser：" + client.browser.name + " " + client.browser.version);
+		  	console.log("System ：" + client.system.name + " " + client.system.version);
 		</script>
 	</body>
 </html>
